@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Marie Joselyne Nyampinga 👋
 
-<!--
-**mjnyampinga/mjnyampinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JavaScript / TypeScript Software Engineer | ALU Software Engineering 2026
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+JavaScript (ES6+) · TypeScript · React.js · Python · Flask · HTML5 · SQL · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- Software Engineer Intern @ Uruti Pay (JS/TS, fintech)
+- Full-Stack Developer Intern @ KudiBooks (accounting software)
+
+## 📜 Certifications
+- Google Cybersecurity Professional Certificate (2025)
+- Front-End Development ALX – 32-week programme (2025)
+
+## 📫 Contact
+nmjoselyne09@gmail.com
